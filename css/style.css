@@ -145,12 +145,6 @@ header{
   text-align: center;
 }
 
-.conte-titulo{
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-}
-
 .titulo h1 {
     width: 696px;
     margin: 30px auto;
