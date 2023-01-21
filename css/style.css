@@ -21,13 +21,13 @@ h1, h2, h3, h4, h5, h6, p {
   margin-bottom: 0; 
 }
 
-.list {
+li {
 	list-style: none;
 	padding-left: 0;
 	margin: 0;
 }
 
-.link {
+a {
 	text-decoration: none;
 	color: inherit;
 }
@@ -140,16 +140,15 @@ header{
 
 .titulo {
   background-color: #2f303a;
-  width: 100%;
-  margin: auto;
+  padding-bottom: 200px;
+  padding-top: 200px;
+  text-align: center;
 }
 
 .conte-titulo{
   margin: auto;
   display: flex;
   flex-direction: column;
-  padding-bottom: 200px;
-  padding-top: 200px;
 }
 
 .titulo h1 {
